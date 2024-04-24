@@ -12,7 +12,7 @@ import lombok.NoArgsConstructor;
 public class ProfileUserDTO{
 
     private String email;
-    private UUIDD id;
+    private UUID id;
     private String description;
     private String username;
     private String name;
